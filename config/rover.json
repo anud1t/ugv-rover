@@ -1,0 +1,17 @@
+{
+  "serial": {
+    "lidar_port": "/dev/serial0",
+    "lidar_baud": 115200,
+    "motion_port": "/dev/serial0",
+    "motion_baud": 115200
+  },
+  "motion": {
+    "safe_distance_mm": 250,
+    "turn_distance_mm": 500,
+    "speed_slow": 0.15,
+    "speed_normal": 0.20,
+    "speed_fast": 0.25,
+    "boost_speed": 0.30
+  }
+}
+
